@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="მთავარი"/>
+    <item
+        android:id="@+id/leaderboardFragment"
+        android:icon="@drawable/ic_baseline_leaderboard_24"
+        android:title="ლიდერბორდი"/>
+    <item
+        android:id="@+id/settingsFragment"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="პარამეტრები"/>
+
+</menu>
